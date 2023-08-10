@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @igormiljenovic
 - 👀 I’m interested in web development, recently finished Highschool, doing webDev for more than 4 years now.
-- 🌱 I’m currently learning React JS and getting more into SaaS and Frontend Development.
-- 🧠 I founded running Adverr Digital, Creative Digital Agency.
+- 🌱 I’m currently learning React JS and getting more into SaaS.
 - 📫 How to reach me ...
 
 igor.miljenovic@gmail.com
