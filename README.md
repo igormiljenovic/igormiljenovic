@@ -3,8 +3,6 @@
 - 📫 How to reach me ...
 
 igor.miljenovic@gmail.com
-https://www.linkedin.com/in/igor-miljenovic/
-+38766008541
 
 <!---
 igormiljenovic/igormiljenovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
