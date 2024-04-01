@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @igormiljenovic
-- 👀 I’m interested in web development, recently finished Highschool, doing webDev for more than 4 years now.
-- 🌱 I’m currently learning React JS and getting more into SaaS.
+- 👀 I’m interested in web development, doing webDev for more than 4 years now.
 - 📫 How to reach me ...
 
 igor.miljenovic@gmail.com
