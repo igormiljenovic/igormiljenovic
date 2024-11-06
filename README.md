@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igormiljenovic
-- 👀 Doing webDev for more than 5 years now.
+- 👀 Producing terrible code for more than 5 years now.
 - 📫 How to reach me ...
 
 igor.miljenovic@gmail.com
