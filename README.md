@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igormiljenovic
-- 👀 Producing terrible code for more than 5 years now.
+- 👀 Producing terrible code for more than 6 years now.
 - 📫 How to reach me ...
 
 igor.miljenovic@gmail.com
